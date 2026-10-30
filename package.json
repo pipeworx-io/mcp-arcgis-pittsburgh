@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-pittsburgh",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "City of Pittsburgh GIS — Pittsburgh, Pennsylvania open geospatial data (ArcGIS).",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "arcgis-pittsburgh",
     "gatewaySlug": "arcgis-pittsburgh",
-    "sourceHash": "v1-7b85b26edbed6ef6be09db80eeb4e1d99cd377a105a2058d63ff034950d71cc2",
-    "sourceCommit": "c6136b81713e72ccb22977ca0c0cd981f8c3f081"
+    "sourceHash": "v1-82982dc5c4a4908c1a3afb1988502ab9cd49701e7801f02ab2686ef3a08a8119",
+    "sourceCommit": "5cb09714e895571153f3d9663c36ff0f140cadd6"
   }
 }
